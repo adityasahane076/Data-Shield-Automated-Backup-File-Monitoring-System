@@ -1,2 +1,3 @@
-# Data-Shield-Automated-Backup-File-Monitoring-System
+# Data-Shield-Automated-Backup-File-Monitoring-System( Python, OS Module, hashlib, shutil, schedule, Automation Scripting)
 Developed an automated file backup and monitoring system using Python to securely manage and synchronize important  data directories across multiple locations.  Implemented MD5checksum-based file comparison to detect newly added/modified files, ensuring data integrity at each  backup cycle. 
+ Integrated scheduling automation for periodic backup execution with real-time reporting, status logs.
